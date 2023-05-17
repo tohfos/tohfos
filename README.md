@@ -1,10 +1,10 @@
 ### Hi there 👋
-
-
++
+![Untitled video](https://github.com/tohfos/tohfos/assets/119699153/521d4fab-ef57-4e34-9cf7-dcab951bf274)
++
 Here are some ideas to get you started:
 
-- 🔭 I’m currently worki![Untitled video](https://github.com/tohfos/tohfos/assets/119699153/521d4fab-ef57-4e34-9cf7-dcab951bf274)
-ng on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
