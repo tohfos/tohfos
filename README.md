@@ -1,7 +1,7 @@
 ### Hi there 👋
 +
 
-![Header] (https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+![] (https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 +
 <!--
