@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS ,**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/ahmed-shehata-244b221b2</h3>
 <p align="left">
 </p>
 
